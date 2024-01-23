@@ -33,6 +33,6 @@ public class Main10158 {
         t %= 24;
         System.out.printf("%d %d", path[t][0], path[t][1]);
 
-
+        //wrong
     }
 }
