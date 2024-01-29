@@ -14,7 +14,7 @@ public class Main_15649 {
     }
 
     static int N, M;
-    static int[] selected, used;
+    static int[] selected;
 
 
     static void rec_func(int k) {
