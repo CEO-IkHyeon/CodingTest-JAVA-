@@ -56,7 +56,7 @@ public class Main10431 {
                 }
             }
 
-            System.out.println(T + " " + cnt + " " +moveCount );
+//            System.out.println(T + " " + cnt + " " +moveCount );
         }
     }
 }
